@@ -1,0 +1,4 @@
+- Hello there, I'm Ashley! It's so nice to meet you!
+- I'm interested in learning and developing my knowledge of web page development. I'm new to this, I've only just learned, so I don't know everything, but I certainly want to learn.
+- I’m learning UI & UX and few things about IT in general, like web pages on Visual Code, programming logic and database. And of course, learning english.
+- Pronouns: she/her
